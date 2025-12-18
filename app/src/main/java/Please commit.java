@@ -1,4 +1,4 @@
-package com.fadcam;
+package  com.fadcam;
 
 import android.os.Bundle;
 import android.view.View;
